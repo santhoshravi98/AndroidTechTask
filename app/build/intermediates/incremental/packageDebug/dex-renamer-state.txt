@@ -1,0 +1,7 @@
+#Sat Jul 29 12:39:12 IST 2017
+base.0=C\:\\Users\\santhosh\\AndroidStudioProjects\\materialnews\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_92793b07aba4d884a037fdec1db26349208c7a82
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\santhosh\\AndroidStudioProjects\\materialnews\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bb69b42b82c8d9da0b5b2d107ecea2e773cd21bc\\classes.dex
+base.1=C\:\\Users\\santhosh\\AndroidStudioProjects\\materialnews\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bb69b42b82c8d9da0b5b2d107ecea2e773cd21bc
+file.0=C\:\\Users\\santhosh\\AndroidStudioProjects\\materialnews\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_92793b07aba4d884a037fdec1db26349208c7a82\\classes.dex

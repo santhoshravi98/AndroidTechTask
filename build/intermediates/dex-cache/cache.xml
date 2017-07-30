@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\santhosh\AndroidStudioProjects\materialnews\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\santhosh\AndroidStudioProjects\materialnews\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_92793b07aba4d884a037fdec1db26349208c7a82\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santhosh\.android\build-cache\2f01ee3bdd650b78e4b99353956542022ad9dd5e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\santhosh\AndroidStudioProjects\materialnews\app\build\intermediates\pre-dexed\debug\classes_254998cefddf637cb5bb32d2a4a4d07a98d300e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santhosh\.android\build-cache\585ea209e4d6cd4c6f117720a07ec1a04cf528de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="C:\Users\santhosh\AndroidStudioProjects\materialnews\app\build\intermediates\pre-dexed\debug\classes_a2b04d75f93b8ee2629b5a3b18007c9d57baa545.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santhosh\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\santhosh\AndroidStudioProjects\materialnews\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_045a0017af7b5be5d815ca85a31f4bdad2a506fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santhosh\.android\build-cache\2f01ee3bdd650b78e4b99353956542022ad9dd5e\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\santhosh\AndroidStudioProjects\materialnews\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_82186f77adae8bbf19e2b3d59ea55f474b1ebd84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santhosh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\santhosh\AndroidStudioProjects\materialnews\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_33971e87cb4945af688e48048e53b4cb23f230c5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santhosh\AndroidStudioProjects\materialnews\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5d53bbe18f040bbfae219a5e82482532e71ef23e">
+        <dex dex="C:\Users\santhosh\AndroidStudioProjects\materialnews\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bb69b42b82c8d9da0b5b2d107ecea2e773cd21bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santhosh\.android\build-cache\34615d34c23fd4a6e716dccf5c07d78a1417ef23\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\santhosh\AndroidStudioProjects\materialnews\app\build\intermediates\pre-dexed\debug\classes_1fa80af6e37cdb18aecb054c51a45f81fd8a2db3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santhosh\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\santhosh\AndroidStudioProjects\materialnews\app\build\intermediates\pre-dexed\debug\gson-2.6.2_4ad514d2efffb1d35daf74e49e027be9dc96889c.jar" />
+    </item>
+
+</items>
